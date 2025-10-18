@@ -57,8 +57,8 @@ const About = () => {
                 Our Promise
               </h3>
               <p className="text-gray-700 leading-relaxed">
-                Complete transparency in data, processes, and results. You'll
-                always know exactly where you stand and where you're heading.
+                Complete transparency in data, processes, and results. You&apos;ll
+                always know exactly where you stand and where you&apos;re heading.
               </p>
             </div>
           </div>

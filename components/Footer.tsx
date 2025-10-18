@@ -58,7 +58,7 @@ const Footer = () => {
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4">
-              Let's Start Your <span className="text-primary-400">Transformation</span>
+              Let&apos;s Start Your <span className="text-primary-400">Transformation</span>
             </h2>
             <div className="w-24 h-1 bg-gradient-to-r from-primary-400 to-primary-600 mx-auto mb-6"></div>
             <p className="text-lg md:text-xl text-gray-300">

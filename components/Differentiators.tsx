@@ -48,7 +48,7 @@ const Differentiators = () => {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-primary-400 to-primary-600 mx-auto mb-6"></div>
           <p className="text-lg md:text-xl text-gray-300 max-w-3xl mx-auto">
-            We're not just another operations vendor. We're your partner in building a better business.
+            We&apos;re not just another operations vendor. We&apos;re your partner in building a better business.
           </p>
         </div>
 
@@ -81,7 +81,7 @@ const Differentiators = () => {
             href="#contact"
             className="inline-block bg-primary-500 text-white px-8 py-4 rounded-full font-semibold text-lg hover:bg-primary-600 transition-all duration-300 shadow-lg hover:shadow-xl"
           >
-            Let's Talk About Your Operations
+            Let&apos;s Talk About Your Operations
           </a>
         </div>
       </div>
